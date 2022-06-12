@@ -13,6 +13,8 @@
 		968DECA3285631D6007E6FB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 968DECA1285631D6007E6FB1 /* Main.storyboard */; };
 		968DECA5285631DA007E6FB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 968DECA4285631DA007E6FB1 /* Assets.xcassets */; };
 		968DECA8285631DA007E6FB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 968DECA6285631DA007E6FB1 /* LaunchScreen.storyboard */; };
+		968DECB428563446007E6FB1 /* UIImageView+RemoteImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968DECB328563446007E6FB1 /* UIImageView+RemoteImages.swift */; };
+		968DECB628563FCB007E6FB1 /* GallaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968DECB528563FCB007E6FB1 /* GallaryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		968DECA4285631DA007E6FB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		968DECA7285631DA007E6FB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		968DECA9285631DA007E6FB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		968DECB328563446007E6FB1 /* UIImageView+RemoteImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+RemoteImages.swift"; sourceTree = "<group>"; };
+		968DECB528563FCB007E6FB1 /* GallaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GallaryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				968DEC9B285631D6007E6FB1 /* AppDelegate.swift */,
 				968DEC9D285631D6007E6FB1 /* SceneDelegate.swift */,
 				968DEC9F285631D6007E6FB1 /* ViewController.swift */,
+				968DECB328563446007E6FB1 /* UIImageView+RemoteImages.swift */,
+				968DECB528563FCB007E6FB1 /* GallaryViewController.swift */,
 				968DECA1285631D6007E6FB1 /* Main.storyboard */,
 				968DECA4285631DA007E6FB1 /* Assets.xcassets */,
 				968DECA6285631DA007E6FB1 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				968DECA0285631D6007E6FB1 /* ViewController.swift in Sources */,
 				968DEC9C285631D6007E6FB1 /* AppDelegate.swift in Sources */,
+				968DECB428563446007E6FB1 /* UIImageView+RemoteImages.swift in Sources */,
+				968DECB628563FCB007E6FB1 /* GallaryViewController.swift in Sources */,
 				968DEC9E285631D6007E6FB1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
